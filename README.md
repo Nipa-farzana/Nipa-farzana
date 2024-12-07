@@ -5,8 +5,8 @@
 - 💬 Ask me anything about Js And React
 - 📫 How to reach me: nipapstu2018@gmail.com
 - 😄 My portfolio:
-- 📫 Ecommerce Web with vanillajs:https://ecom-vanillajs.netlify.appttps://ecom-vanillajs.netlify.app
-- 📫 Ecommerce Web with css:online-ecom-clothing.netlify.app
+- 📫 Ecommerce Web with vanillajs:(https://ecom-vanillajs.netlify.app)
+- 📫 Ecommerce Web with css:(https://online-ecom-clothing.netlify.app)
 - ⚡ Fun fact: i am thinking...  
 ### Connect with me:
 <div id="badges">
