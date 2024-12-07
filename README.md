@@ -1,16 +1,35 @@
-## Hi there 👋
+ <h1 align="center">Hi 👋, I'm Nipa Akter</h1>
 
-<!--
-**Nipa-farzana/Nipa-farzana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Javascript And ReactJs
+- 🌱 I’m currently learning Backend
+- 💬 Ask me anything about Js And React
+- 📫 How to reach me: nipapstu2018@gmail.com
+- 😄 My portfolio: 
+- ⚡ Fun fact: i am thinking...  
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/Nipa-farzana">
+    <img src="https://img.shields.io/badge/Github-yellow?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+   <a href="https://www.instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+   <a href="https://www.facebook.com/">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+   <a href="https://twitter.com/">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,php,python,github,git,mysql,mongodb,wordpress,figma,ml,&perline=5)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nipa-farzana&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nipa-farzana&theme=dark)
+
+
+<br>
+
+
