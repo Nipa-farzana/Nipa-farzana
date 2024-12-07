@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Nipa Akter</h1>
 
-- 🔭 I’m currently working on Javascript And ReactJs
-- 🌱 I’m currently learning Backend
+- 🔭 I’m currently working on Front-end(Reactjs)
+- 🌱 I’m currently learning React & Backend
 - 💬 Ask me anything about Js And React
 - 📫 How to reach me: nipapstu2018@gmail.com
 - 😄 My portfolio: 
