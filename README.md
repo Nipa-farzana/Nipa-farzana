@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning **React & Backend Development**  
 - 💬 Ask me anything about **JavaScript and React**  
 - 📫 How to reach me: **nipapstu2018@gmail.com**  
-- 😄 My portfolio: 
+- 😄 My portfolio: **https://nipa-farzana.github.io**
+- 📫Small projet using js:**To-do list | Age Calculator | Tic Toe Game | Weather App | Curency Converter | Rock paper sessior game**
 - 📫 **Ecommerce Web with VanillaJS**: [View Project](https://ecom-vanillajs.netlify.app)  
 - 📫 **Ecommerce Web with CSS**: [View Project](https://online-ecom-clothing.netlify.app)  
 - ⚡ Fun fact: **I am thinking...**
